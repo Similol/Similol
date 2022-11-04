@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Similol
-- 👀 I’m interested in web3 front-end development
+- 👋 Hi, I’m Similoluwa Jide-Jegede
+- Web3 front-end development
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on building a new generation of communities in tech.
 - 📫 How to reach me @jidejegedesimi@gmail.com
